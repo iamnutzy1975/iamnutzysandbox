@@ -1,0 +1,47 @@
+#Key value pairs
+
+MasterConfig:
+  config:
+    date: 1994-04-04 14:23:23   #ISO 8601
+    config1: 100
+    config2: 200
+    config3: 300
+    ConfigList:
+      # lists
+      - clone
+      - cltwo
+      - clthree
+    ConfigListAlt: [clone,cltwo,clthree]
+  configGord:
+    configGord1: 100
+    configGord2: 200
+    #casting to string
+    configGord3: !!str 300
+  objects:
+    - name: "oname"
+      age: 22
+    - {nameAlt: "oaname", age: 22}
+    -
+      name: "onmae2"
+      #force casting
+      age: !!float 25
+  description: >
+    In this article, I’d like to reacquaint you with the humble workhorse
+    of communication that is the paragraph. Paragraphs are everywhere.
+    In fact, at the high risk of stating the obvious, you are reading one now.
+    Despite their ubiquity, we frequently neglect their presentation. This is a mistake
+    . Here, we’ll refer to some time-honored typesetting conventions, with an emphasis on r
+    eadability, and offer guidance on adapting them effectively for devices and screens.
+    We’ll see that the ability to embed fonts with @font-face is not by itself a solution to all
+    of our typographic challenges.
+  anchor: &someLabel "someAnchorText"
+  descriptionwithneline:
+    Gord's email signature
+    company
+    email - gord@ap.com
+  anchorClone: *someLabel
+  anchorKVP: &anchoredKVP
+    varConfig1: value
+
+  aor:
+    <<: *anchoredKVP      #anchoring key value pair

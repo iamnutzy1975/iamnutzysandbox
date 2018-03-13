@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "analyticspros.com:spotted-cinnamon-834",
+  "private_key_id": "e0e1ce418ef55f478e6beb95f45c41a2bac450fc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzSSSG5LLoBEl9\ndEh0Mu7sR5t8lPi+WIbn6vDCV11WxRwq3jfAFq3ucBMtyfaYFF3LrDSYf7cvK7Dn\nqPOJaF4sO4W+J07nH/KABRqpVnf4C1mlBlWwkBKTVQdGR/iAQL5X9mcOQy8+yFDy\n2a9L7jPLA/MDQuD7e2yR7JuBCSzAfsRpBU/xPYfqkZBGje5i1vPmb65w+wWP0/ts\nsCedzGcGIXlwCxGnjQgfXNt4BDWHhn4m7khx4C90c7Swll5kr/jcrj7DZmbRU2Qi\n+KCOv7dr5g6XLWYRJnd1rCWmAy9VXAy06cesC+tMbnUDw6aLWmTtl40Z7G6e7dC7\n3XUdhhl1AgMBAAECggEBALJW1J3WStyevxerHxNvQtkIVfO0IEb/upphysIWs4NH\nqUA/MgfCx5tCIuHOX5xhzfd2wg7cJDUo6d1W44JQrjSjtOM1KLihv9B2w1Gk8Mtt\nRuvwBDcQ6VljIExZ9ShmvrCzK0o1rH5wNo2L2mLWfPC6afZZhYDDAnmZegn+PWTw\nSLrcpM6lhOjxgmw4P/4rFr34681MaP4HOQF2MLCQ2qET5UA3EYBiP2BtRsNtmgBp\niAb5sNKwM+vLHKidhvIiOB2AOItiQdikooX/PttCv50J8ZjRCWeVKWX5gQ4+p48L\n8OcsjszqEI463V4HPxjhTd1wGI7snOETTnD+FqVLicECgYEA6ijmlr9dVSGJR02l\ndPMGy2MUt0VGrrHvuqFp1rEGrQJBAffLqhQsJWbHx4TJYXFCqXDRe39/8I10Dcut\n10C3qYHLaWT36bhijf3R+W10qZjY2yTppO6glLT205O3Ve7rhAn1QQSyiOGeaN8l\nWdH4dn8IW/efOGOHyJw6JbsWG6UCgYEAxAH/oZ/SCiXN4+j7VqWCcN3NMVXe9AE4\npn+nNVnbML70Doq6/mo0pliK/yyGreDCMI9i5JviqQwMjNMMRcAvq7aiJCP763fI\nKywbQetjzk6qO29FFbTgjfZNpVK9/WtHjn6xajyUocrtJ8X2HvOR8mUoj9PlYH6q\nf+C5/1In3ZECgYAHHvFMOkuTUC7FjVXvxYg6XSv/Gss4es7IhSobzkxerIffkHKQ\nHIbvKD4BEkexf+lAD98++zSf0x1pYf1KY3xyWjEeZmSnpeTRXpupEywOEEjf+TJl\nwp/9hbdP3dkgcuCUplzf+k2XngzcMZUIMzt0Fw7hBRnBdD1n22BlT1gvxQKBgE+Q\nbB9Ei/NYkzIfwd7TQpbkQkXzkJRF5qQXj11lw0cPTGyWvf9GR2b67DlW7rioUst5\nePBJowFyBaoohYPO1ssCUOEQxlM4BUYZGltw3MvDPPDxYv7DtJ+LyssAQmUbZime\nng/81Wyzvf72Kck4oBbgH036+tJnuHg+VeIhjFMxAoGBAMkW/+wSRb2bBMzm7swQ\newXvrlkI/vbyZvNxkUIRCdQIx17s3wa+9fSsiBrnmc43AcLK2vrP1vV2ES2cTuJv\n7LrIE/YxjW+HwD9Ce8dPk9uK8pu+/ZZr9GZpMauQOBJ6a02IxWfjELckSIS+WCU9\nvSUL3HKdO0MVhQiJE+cGIZvc\n-----END PRIVATE KEY-----\n",
+  "client_email": "apmk-service@spotted-cinnamon-834.analyticspros.com.iam.gserviceaccount.com",
+  "client_id": "117694379121295891656",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apmk-service%40spotted-cinnamon-834.analyticspros.com.iam.gserviceaccount.com"
+}
